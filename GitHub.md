@@ -1,0 +1,1 @@
+Source is hosted at GitHub http://github.com/resmo/smsler

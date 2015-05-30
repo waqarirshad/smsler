@@ -1,0 +1,1 @@
+Releases can be found on http://github.com/resmo/smsler/downloads
